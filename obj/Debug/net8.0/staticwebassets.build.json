@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3n4NdWjn0ogOlBo8JjRNGJKZ8o9XO+0u711Sw+6oIm0=",
+  "Source": "RestfulApiExtension",
+  "BasePath": "_content/RestfulApiExtension",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
