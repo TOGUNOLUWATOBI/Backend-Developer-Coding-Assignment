@@ -1,14 +1,14 @@
 # RESTful API Extension (.NET 8.0)
 
-## 📌 Overview
+##  Overview
 This project is a RESTful Web API built with .NET 8.0 that integrates with the mock API at [https://restful-api.dev](https://restful-api.dev/). It adds filtering, paging, validation, and clean error handling.
 
-## 🚀 Features
+##  Features
 - Retrieve, filter, and paginate product data
 - Add new products with validation
 - Delete products by ID
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
