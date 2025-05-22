@@ -16,8 +16,9 @@ This project is a RESTful Web API built with .NET 8.0 that integrates with the m
 ### Run Locally
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/TOGUNOLUWATOBI/Backend-Developer-Coding-Assignment
+cd [path-to-your-cloned-repo]
+```
 dotnet run
 
 # or use Visual Studio to open the solution and run it
